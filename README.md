@@ -1,11 +1,8 @@
-# CPE-019---CPE32S3
-CPE 019 - CPE32S3 - Emerging Technologies 2 in CpE
+<h1 align="center">Hi 👋, I'm Julia Marie Iberet B.Abad</h1>
+<h3 align="center">A 3rd year Computer Engineering Student at Technological Institute of Quezon City</h3>
 
-## About Me
-- **Name:** Julia Marie Iberet B. Abad
-- **Age:** 21 years old
-- **Year Level & Course:** 3rd Year Computer Engineering
-- **Address:** Montalban, Rizal
-- **Hobbies:** Watching movies and playing games
-  
+- 📫 How to reach me **qjmibabad@tip.edu.ph**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
