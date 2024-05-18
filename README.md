@@ -17,4 +17,10 @@
   <img src="https://media.tenor.com/images/2e6db7375d55e8b8c03e2b220d50b3c5/tenor.gif" alt="Moving GIF" width="200"/>
 </p>
 
+<blockquote align="center">
+  Manifesting for passed grades <3
+</blockquote>
 
+<p align="center">
+  <img src="cute-please.gif" alt="Cute GIF" width="200"/>
+</p>
